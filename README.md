@@ -1,6 +1,9 @@
-### Hi there 👋 !
-## It's me Atishay !
+### Hi there 👋 ! 
+#### It's me Atishay !
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/2UEMOVIDd0CPBveU3w/giphy.gif" width="100"/>
+</div>
 
 <!--
 **atishayjain98/atishayjain98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
