@@ -5,7 +5,7 @@
   
   - I am a Data Scientist to be <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India currently in Germany.
  
- - :telescope: I’m currently a student at SRH University, Berlin pursuing my masters in Big Data and AI.
+ - :telescope: I’m currently a student at University of Koblenz, Koblenz Germany pursuing my Masters in Big Data and AI.
 
 - :seedling: Exploring Technical Content Writing.
 
