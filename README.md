@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Deep Learning, AI**
 
-- 👨‍💻 All of my projects are available at [github.com/atishayjain98](github.com/atishayjain98)
+- 👨‍💻 All of my projects are available at [https://github.com/atishayjain98?tab=repositories](github.com/atishayjain98)
 
 - 💬 Ask me about **Python, Machine Learning, Data Viz**
 
